@@ -1,0 +1,10 @@
+header{
+	margin: -2rem calc(0px - (50vw - 50%)) 0rem;
+}
+.main-image{
+	background-image: url("../assets/background2.jpg");
+	background-position: top; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	min-height: 300px;
+}
