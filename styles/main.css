@@ -1,4 +1,8 @@
+body,html{
+	background-color: #131e30;
+}
 header{
+	background-color: #131e30;
 	margin: -2rem calc(0px - (50vw - 50%)) 0rem;
 }
 .main-image{
