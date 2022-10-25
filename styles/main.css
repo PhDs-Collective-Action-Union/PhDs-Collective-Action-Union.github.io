@@ -1,5 +1,9 @@
 body,html{
 	background-color: #131e30;
+	color: #fff;
+}
+*{
+	color: #fff;
 }
 header{
 	background-color: #131e30;
